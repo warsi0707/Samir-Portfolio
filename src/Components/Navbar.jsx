@@ -15,6 +15,7 @@ export default function Navbar() {
         <NavLink to="/about">About</NavLink>
         <NavLink to="/projects">Projetcs</NavLink>
         <NavLink to="/resume">Resume</NavLink>
+        <NavLink to="/resume">samir</NavLink>
       
         <button className="bg-purple-500 h-10 w-24 text-center rounded-md p-1  hover:transition ease-in-out  ">GitHub</button>
 
