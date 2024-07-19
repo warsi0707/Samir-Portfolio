@@ -50,7 +50,7 @@ export default function Navbar() {
           <NavLink to="/about"  className="  hover:text-gray-300 ">About</NavLink>
           <NavLink to="/projects"  className="  hover:text-gray-300 ">Projects</NavLink>
           <NavLink to="/resume"  className="  hover:text-gray-300 ">Resume</NavLink>
-          <NavLink to="/projects"  className="  hover:text-gray-300 ">Projects</NavLink>
+          <NavLink to="https://github.com/warsi0707/Samir-Portfolio"  className="  hover:text-gray-300 ">GitHub</NavLink>
         </ul>
       </div>
      </div>

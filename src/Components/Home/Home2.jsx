@@ -8,9 +8,9 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 export default function Home2() {
   return (
     <>
-    <h1 className="text-5xl text-center pt-14">LET ME <span className='text-purple-500 font-bold'>INTODUCE</span> MYSELF</h1>
-    <div className="introduction grid justify-items-center m-5 mx-20 md:flex">
-        <div className="intro-content text-2xl m-20 space-y-6">
+    <h1 className="text-5xl text-center pt-36">LET ME <span className='text-purple-500 font-bold'>INTODUCE</span> MYSELF</h1>
+    <div className="introduction grid justify-items-center m-5  md:flex">
+        <div className="intro-content text-2xl m-10  space-y-6 md:px-20">
             <h1>I fell in love with programming and I have at least learnt something, I think…</h1>
             <h1>I am fluent in classics like <i className='text-purple-500  font-bold'>Html5, CCS3, JAVASCRIPT, NODE, REACT</i> </h1>
             <h1>My field of Intrest's are building new <i className='text-purple-500  font-bold'>Web Technologies and Products.</i>  </h1>

@@ -13,8 +13,12 @@ export default function Project() {
             <h1 className='text-2xl text-center py-2'>Weather App</h1>
             <p className='text-lg text-center'>It have ability to show you the current weather of your city, once you typed your city name.</p>
             <div className="btn flex justify-center gap-5 my-10 text-white ">
+                <a href="https://github.com/warsi0707/WeatherApp">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
+                </a>
+                <a href="#">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Live</button>
+                </a>
             </div>
         </div>
 
@@ -23,8 +27,14 @@ export default function Project() {
             <h1 className='text-2xl text-center py-2'>To-Do</h1>
             <p className='text-lg text-center'>To rember your daily tasks you can use this app, Basically it stored your data of task and once have you done your task you can mark as done or also you can delete your task as well as you can add new tasks.</p>
             <div className="btn flex justify-center gap-5 my-10 text-white ">
+                <a href="https://github.com/warsi0707/ReactToDo">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
+                </a>
+                <a href="#">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Live</button>
+                </a>
+                
+               
             </div>
         </div>
 
@@ -33,8 +43,14 @@ export default function Project() {
             <h1 className='text-2xl text-center py-2'>Ip Address Finder</h1>
             <p className='text-lg text-center'>With the help of any Ip Address you can find the exact location or city name.</p>
             <div className="btn flex justify-center gap-5 my-10 text-white ">
+                <a href="https://github.com/warsi0707/IpFinder">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
+                </a>
+                <a href="#">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Live</button>
+                </a>
+            
+               
             </div>
         </div>
 
@@ -43,8 +59,14 @@ export default function Project() {
             <h1 className='text-2xl text-center py-2'>Faker-Data</h1>
             <p className='text-lg text-center'>This is the basic app that generate the fake data with faker API.</p>
             <div className="btn flex justify-center gap-5 my-10 text-white ">
-                <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
+                <a href="https://github.com/warsi0707/FakerData">
+                     <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
+                </a>
+                <a href="#">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Live</button>
+                </a>
+                
+               
             </div>
         </div>
     </div>
