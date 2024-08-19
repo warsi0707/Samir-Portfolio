@@ -19,7 +19,11 @@ export default function Navbar() {
     
     <nav className="bg-slate-600 h-20 grid grid-cols-2  gap-0 sticky top-0 "> 
       <div className="grid justify-around text-center items-center">
-      <img className='text-3xl w-20 hover:cursor-pointer text-center' src="logo2.png" alt="" />
+        <a href="/">
+        <img className='text-3xl w-20 hover:cursor-pointer text-center' src="logo2.png" alt="" />
+
+        </a>
+      
       </div>
 
       <div className="grid justify-around md:hidden  items-center hover:cursor-pointer" onClick={handleClick}>
@@ -44,7 +48,7 @@ export default function Navbar() {
 
       </nav>
       <div className={hamberOpen ? "md:hidden" : "hidden "}>
-     <div className="bg-slate-600  w-full border-2 border-gray-700  ">
+     <div className="bg-slate-600  w-full border-2 border-gray-700 fixed top-20">
         <ul className=" grid justify-items-center text-2xl space-y-5 my-5 ">
           <NavLink to="/"  className=" hover:text-gray-300">Home</NavLink>
           <NavLink to="/about"  className="  hover:text-gray-300 ">About</NavLink>
