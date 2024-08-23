@@ -16,7 +16,7 @@ export default function Project() {
                 <a href="https://github.com/warsi0707/WeatherApp">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Github</button>
                 </a>
-                <a href="#">
+                <a href="https://location-weather-apps.netlify.app/">
                 <button className='w-28 h-10 text-lg bg-purple-600 rounded-md transition ease-in-out delay-100 hover:translate-1 hover:scale-110'>Live</button>
                 </a>
             </div>
