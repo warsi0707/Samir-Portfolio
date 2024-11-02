@@ -12,11 +12,11 @@ export default function About2() {
         <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Tailwind CSS</div>
         <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Node Js</div>
         <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>React Js</div>
-        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Vite</div>
-        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Redux</div>
-        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Git & GitHub</div>
-        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>React Routes</div>
-        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Rest API</div>
+        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Express</div>
+        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>MongoDB</div>
+        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>JWT</div>
+        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Cookies</div>
+        <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 '>Bcrypt</div>
         <div className= 'border-2 border-purple-500 text-2xl py-5 rounded-md transition ease-in-out delay-150 hover:translate-1 hover:scale-110 item-centre'>CRUD</div>
       </div>
    

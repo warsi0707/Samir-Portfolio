@@ -6,6 +6,7 @@ import About2 from './About2';
 export default function About() {
   return (
     <>
+    <section id='about'>
     <div className='p-5 text-center md:p-10'>
      <h1 className='  text-3xl py-10 font-bold'>Know Who <strong className='text-purple-500'>I'm</strong></h1>
     <div className="container flex flex-col  items-center  p-5 space-y-5 md:grid md:grid-flow-col">
@@ -25,6 +26,7 @@ export default function About() {
       </div>
     </div>
     </div>
+    </section>
 
     <About2/>
     </>
